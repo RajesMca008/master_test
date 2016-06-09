@@ -1,3 +1,4 @@
+//This file edited on master project 2.49pm
 <?php
 error_reporting(E_ALL ^ E_DEPRECATED);
 class db 
